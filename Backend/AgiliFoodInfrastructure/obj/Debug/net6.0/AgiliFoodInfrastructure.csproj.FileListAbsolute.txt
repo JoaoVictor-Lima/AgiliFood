@@ -1,0 +1,17 @@
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\bin\Debug\net6.0\AgiliFoodInfrastructure.deps.json
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\bin\Debug\net6.0\AgiliFoodInfrastructure.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\bin\Debug\net6.0\AgiliFoodInfrastructure.pdb
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\AgiliFoodInfrastructure.csproj.AssemblyReference.cache
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\AgiliFoodInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\AgiliFoodInfrastructure.AssemblyInfoInputs.cache
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\AgiliFoodInfrastructure.AssemblyInfo.cs
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\AgiliFoodInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\AgiliFoodInfrastructure.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\refint\AgiliFoodInfrastructure.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\AgiliFoodInfrastructure.pdb
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\ref\AgiliFoodInfrastructure.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\bin\Debug\net6.0\AgiliFoodDomain.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\bin\Debug\net6.0\AgiliFoodDomain.pdb
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\AgiliFoodInfrastructure.csproj.CopyComplete
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\bin\Debug\net6.0\AgiliFoodInfrastructure.runtimeconfig.json
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodInfrastructure\obj\Debug\net6.0\AgiliFoodInfrastructure.genruntimeconfig.cache

@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodWebApplication\\AgiliFoodWebApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodApplication\\AgiliFoodApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodApplication\\AgiliFoodApplication.csproj",
+        "projectName": "AgiliFoodApplication",
+        "projectPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodApplication\\AgiliFoodApplication.csproj",
+        "packagesPath": "C:\\Users\\vctor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vctor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodServices\\AgiliFoodServices.csproj": {
+                "projectPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodServices\\AgiliFoodServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodDomain\\AgiliFoodDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodDomain\\AgiliFoodDomain.csproj",
+        "projectName": "AgiliFoodDomain",
+        "projectPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodDomain\\AgiliFoodDomain.csproj",
+        "packagesPath": "C:\\Users\\vctor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vctor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodInfrastructure\\AgiliFoodInfrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodInfrastructure\\AgiliFoodInfrastructure.csproj",
+        "projectName": "AgiliFoodInfrastructure",
+        "projectPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodInfrastructure\\AgiliFoodInfrastructure.csproj",
+        "packagesPath": "C:\\Users\\vctor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodInfrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vctor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodDomain\\AgiliFoodDomain.csproj": {
+                "projectPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodDomain\\AgiliFoodDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodServices\\AgiliFoodServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodServices\\AgiliFoodServices.csproj",
+        "projectName": "AgiliFoodServices",
+        "projectPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodServices\\AgiliFoodServices.csproj",
+        "packagesPath": "C:\\Users\\vctor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vctor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodInfrastructure\\AgiliFoodInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodInfrastructure\\AgiliFoodInfrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodWebApplication\\AgiliFoodWebApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodWebApplication\\AgiliFoodWebApplication.csproj",
+        "projectName": "AgiliFoodWebApplication",
+        "projectPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodWebApplication\\AgiliFoodWebApplication.csproj",
+        "packagesPath": "C:\\Users\\vctor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodWebApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vctor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodApplication\\AgiliFoodApplication.csproj": {
+                "projectPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodApplication\\AgiliFoodApplication.csproj"
+              },
+              "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodInfrastructure\\AgiliFoodInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodInfrastructure\\AgiliFoodInfrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

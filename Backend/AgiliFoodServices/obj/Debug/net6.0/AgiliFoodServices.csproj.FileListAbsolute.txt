@@ -1,0 +1,17 @@
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\bin\Debug\net6.0\AgiliFoodServices.deps.json
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\bin\Debug\net6.0\AgiliFoodServices.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\bin\Debug\net6.0\AgiliFoodServices.pdb
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\obj\Debug\net6.0\AgiliFoodServices.csproj.AssemblyReference.cache
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\obj\Debug\net6.0\AgiliFoodServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\obj\Debug\net6.0\AgiliFoodServices.AssemblyInfoInputs.cache
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\obj\Debug\net6.0\AgiliFoodServices.AssemblyInfo.cs
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\obj\Debug\net6.0\AgiliFoodServices.csproj.CoreCompileInputs.cache
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\obj\Debug\net6.0\AgiliFoodServices.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\obj\Debug\net6.0\refint\AgiliFoodServices.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\obj\Debug\net6.0\AgiliFoodServices.pdb
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\obj\Debug\net6.0\ref\AgiliFoodServices.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\bin\Debug\net6.0\AgiliFoodDomain.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\bin\Debug\net6.0\AgiliFoodInfrastructure.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\bin\Debug\net6.0\AgiliFoodInfrastructure.pdb
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\bin\Debug\net6.0\AgiliFoodDomain.pdb
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodServices\obj\Debug\net6.0\AgiliFoodServices.csproj.CopyComplete

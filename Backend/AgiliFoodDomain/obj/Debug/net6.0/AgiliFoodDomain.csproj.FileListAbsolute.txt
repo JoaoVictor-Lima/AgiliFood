@@ -1,0 +1,12 @@
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\bin\Debug\net6.0\AgiliFoodDomain.deps.json
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\bin\Debug\net6.0\AgiliFoodDomain.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\bin\Debug\net6.0\AgiliFoodDomain.pdb
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\obj\Debug\net6.0\AgiliFoodDomain.csproj.AssemblyReference.cache
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\obj\Debug\net6.0\AgiliFoodDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\obj\Debug\net6.0\AgiliFoodDomain.AssemblyInfoInputs.cache
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\obj\Debug\net6.0\AgiliFoodDomain.AssemblyInfo.cs
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\obj\Debug\net6.0\AgiliFoodDomain.csproj.CoreCompileInputs.cache
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\obj\Debug\net6.0\AgiliFoodDomain.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\obj\Debug\net6.0\refint\AgiliFoodDomain.dll
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\obj\Debug\net6.0\AgiliFoodDomain.pdb
+C:\Users\vctor\source\repos\Projects\AgiliFood\Backend\AgiliFoodDomain\obj\Debug\net6.0\ref\AgiliFoodDomain.dll
