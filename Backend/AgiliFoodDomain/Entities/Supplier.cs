@@ -10,5 +10,6 @@ namespace AgiliFoodDomain.Entities
         [Column(TypeName = "varchar(100)")]
         public string? RestaurantName { get; set; }
         public bool IsActive { get; set; }
+        public virtual IEnumerable<Product> Products { get; set; }
     }
 }

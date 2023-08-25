@@ -1,0 +1,17 @@
+.MonthSelect{
+    padding: 10px;
+}
+
+.CollaboratorOrders{
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.ProductsContent{
+    padding: 10px;
+}
+
+.OrderProduct{
+    border-top: 1px solid black;
+}

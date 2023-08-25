@@ -14,6 +14,9 @@ namespace AgiliFoodDomain.Entities
         public string Description { get; set; }
         public decimal Price  { get; set; }
         public bool IsActive { get; set; }
+        public int SupplierId { get; set; }
         public Supplier Supplier { get; set; }
+        public int OrderId { get; set; }
+        public virtual IEnumerable<Order> Orders { get; set; }
     }
 }

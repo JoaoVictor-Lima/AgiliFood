@@ -1,0 +1,23 @@
+.Restaurant {
+    border-top: 1px solid black;
+}
+
+.Products {
+    display: flex;
+    padding: 10px;
+}
+
+.Product {
+    margin: 0.2rem;
+    padding: 10px;
+    border: solid 1px rgb(53, 52, 52);
+    border-radius: 5px;
+}
+
+.Description{
+    width: 100px;
+    height: 100px;
+}
+.button-add {
+    text-align: center;
+}

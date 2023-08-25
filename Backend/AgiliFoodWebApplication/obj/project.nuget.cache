@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QCLc01NjqK1KTAxKTXbDr68tow0vT+SBwP3W/VEtuWVR2vsfCRc7fWqzgAzkFQ5i+KjbLB5b3H0OH9N+Kl7nHA==",
+  "dgSpecHash": "WmfzFfS2ppf5tnSSLTCPDajckUjQ+mw/XAHqfwyXkD6sp02JkluGT8FPMT1VGKbFwSwr35Kuace/HQaLxAfBaw==",
   "success": true,
   "projectFilePath": "C:\\Users\\vctor\\source\\repos\\Projects\\AgiliFood\\Backend\\AgiliFoodWebApplication\\AgiliFoodWebApplication.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\vctor\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\vctor\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\vctor\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.2.0\\microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",
+    "C:\\Users\\vctor\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\vctor\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\vctor\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\vctor\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",

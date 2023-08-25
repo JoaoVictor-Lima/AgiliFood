@@ -1,14 +1,13 @@
 ﻿using AgiliFoodDomain.Entities;
-using AgiliFoodInfrastructure.Repositories;
+using AgiliFoodDomain.Interfaces;
 using AgiliFoodServices.DataTranferObject;
 using AgiliFoodServices.Services.Interfaces;
-using System.Runtime.InteropServices;
 
-namespace AgiliFoodServices.Services
+namespace AgiliFoodServices.Services.Services
 {
     public class SupplierAppService : ISupplierAppService
     {
-        public readonly ISupplierRepository _repository;
+        private readonly ISupplierRepository _repository;
 
         public SupplierAppService(ISupplierRepository repository)
         {
@@ -19,8 +18,8 @@ namespace AgiliFoodServices.Services
         public async Task<IEnumerable<SupplierDTO>> GetAll()
         {
             var entities = await _repository.GetAll();
-            var supplierDtos = entities.Select(entity => MapSupplierToSupplierDto(entity));
-            return supplierDtos;
+            var dtos = entities.Select(entity => MapSupplierToSupplierDto(entity));
+            return dtos;
         }
 
         public async Task<SupplierDTO> GetById(int id)

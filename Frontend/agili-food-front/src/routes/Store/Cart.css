@@ -1,0 +1,20 @@
+.CartContent{
+    padding: 10px;
+}
+
+.CartProducts{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.CartProductDescription{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.ProductButtons {
+    margin: auto 0 ;
+}

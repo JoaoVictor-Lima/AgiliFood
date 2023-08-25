@@ -2,12 +2,7 @@
 
 namespace AgiliFoodServices.Services.Interfaces
 {
-    public interface ISupplierAppService
+    public interface ISupplierAppService : IAppServiceBase<SupplierDTO>
     {
-        Task<IEnumerable<SupplierDTO>> GetAll();
-        Task<SupplierDTO> GetById(int id);
-        Task<SupplierDTO> Create(SupplierDTO dto);
-        Task<SupplierDTO> Update(SupplierDTO dto);
-        Task Delete(int id);
     }
 }

@@ -1,0 +1,62 @@
+.login-scream {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.login-scream h2{
+    font-size: 20px;
+}
+
+.login-scream form {
+    background-color: rgb(165, 168, 168);
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border:solid 1px black;
+}
+
+.login-scream h2{
+    margin-top: 10px;
+}
+
+.login-scream input{
+    padding: 5px;
+    border-radius: 5px;
+    text-align: start;
+    margin-top: 20px;
+    font-size: medium;
+    width: 80%;
+}
+
+.btn-login {
+    margin-top: 70px;
+}
+
+.btn-login input {
+    background-color: #dfdfdf;
+    width: 35%;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    padding: 0.2rem;
+    border-radius: 5px;
+    transition: 0.2s;
+    cursor: pointer;
+    border: 2px solid #88898a;
+}
+
+.btn-login input:hover{
+    background-color: rgb(253, 253, 253);
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+  }
+
+.new-register {
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+}

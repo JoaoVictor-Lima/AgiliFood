@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace AgiliFoodInfrastructure.Migrations
 {
-    [DbContext(typeof(AgileFoodDbContext))]
+    [DbContext(typeof(AgiliFoodDbContext))]
     [Migration("20230726220334_InitialCreate")]
     partial class InitialCreate
     {

@@ -1,0 +1,30 @@
+.edit-content {
+    text-align: center;
+    padding: 20px;
+}
+
+.edit-head {
+    padding-bottom: 20px;
+}
+
+form h2 {
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.edit-head input {
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    text-align: start;
+    border-radius: 10px;
+    font-size: medium;
+}
+
+input {
+
+    text-align: center;
+    align-items: center;
+    justify-content: center;  
+}

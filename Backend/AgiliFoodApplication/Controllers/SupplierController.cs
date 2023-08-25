@@ -39,7 +39,16 @@ namespace AgiliFoodApplication.Controllers
         [HttpPost]
         public async Task<SupplierDTO> Create([FromBody] SupplierDTO dto)
         {
-            return await _appService.Create(dto);
+            try
+            {
+                return await _appService.Create(dto);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            
         }
 
         [HttpPut]

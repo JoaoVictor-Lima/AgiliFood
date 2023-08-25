@@ -1,0 +1,28 @@
+
+
+.supplier h1 {
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.supplier-list {
+    align-items: center;
+    padding:  1rem auto;
+    margin: 0.3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.temp {
+    width: 40%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.temp h3 {
+    width: 4rem;
+    text-align: center;
+    align-items: center;
+}

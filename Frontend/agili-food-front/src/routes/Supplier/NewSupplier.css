@@ -1,0 +1,38 @@
+.new-supplier-content {
+    padding: 20px;
+    padding-top: 40px;
+
+}
+
+.new-name {
+    padding: 2px;
+}
+
+.new-name label  {
+    font-size: 20px;
+}
+
+.new-name input  {
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 5px;
+    width: 300px;
+    text-align: start;
+}
+
+.newIsActive {
+    padding: 2px;
+}
+
+.newIsActive label {
+    font-size: 20px;
+}
+
+.newIsActive input  {
+    text-align: center;
+    align-items: center;
+    margin-left: 10px;
+    width: 18px;
+    height: 18px;
+    margin-bottom: 10px;
+}
