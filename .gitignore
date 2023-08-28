@@ -1,0 +1,51 @@
+# Ignorar arquivos de configuração e pastas
+node_modules/
+build/
+dist/
+.cache/
+.vscode/
+
+# Ignorar arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignorar arquivos gerados pelo Vite (se você estiver usando)
+.cache/
+dist/
+public/build/
+
+# Ignorar arquivos de build específicos
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar arquivos de configuração específicos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar pacotes de dependências gerados pelo Yarn (se você estiver usando)
+yarn-error.log
+yarn.lock
+
+# Ignorar pacotes de dependências gerados pelo npm (se você estiver usando)
+npm-debug.log*
+
+# Ignorar pastas e arquivos ASP.NET Core
+obj/
+bin/
+*.dll
+*.exe
+*.pdb
+
+# Ignorar pacotes de dependências ASP.NET Core
+packages/
+*.user
+
+# Ignorar arquivos de configuração do npm
+package-lock.json
+npm-shrinkwrap.json
